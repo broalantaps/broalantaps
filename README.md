@@ -1,5 +1,8 @@
-## Hi there 👋
-## 💬 Ask me about ...
+## Hi, I'am BroAlanTaps👋 
+## 🌱 I’m currently learning at Shenzhen University as a sophomore undergraduate student,
+## 💬 Email: 2022110013@email.szu.edu.cn
+## 💬 Wechat: 17322482215
+## 💬 QQ: 2217461513
 <!--
 **broalantaps/broalantaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![BroAlantaps's GitHub stats](https://github-readme-stats.vercel.app/api?username=broalantaps&show_icons=true&theme=calm_pink)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broalantaps&hide_progress=true)
