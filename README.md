@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 💬 Ask me about ...
 <!--
 **broalantaps/broalantaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![BroAlantaps's GitHub stats](https://github-readme-stats.vercel.app/api?username=broalantaps&show_icons=true&theme=calm_pink)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broalantaps&hide_progress=true)
