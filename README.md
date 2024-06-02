@@ -1,8 +1,12 @@
 ## Hi, I'am BroAlanTaps👋 
-🌱 I’m currently learning at Shenzhen University as a sophomore undergraduate student.
-💬 Email: 2022110013@email.szu.edu.cn
-💬 Wechat: 17322482215
-💬 QQ: 2217461513
+🌱 **I’m currently learning at Shenzhen University as a sophomore undergraduate student.**  
+
+💬 **Email: 2022110013@email.szu.edu.cn** 
+
+💬 **Wechat: 17322482215**  
+
+💬 **QQ: 2217461513**  
+
 <!--
 **broalantaps/broalantaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
