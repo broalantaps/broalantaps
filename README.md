@@ -3,7 +3,7 @@
 
 💬 **Email: 2022110013@email.szu.edu.cn** 
 
-💬 **Wechat: 17322482215**  
+💬 **Wechat: BroAlanTaps**  
 
 💬 **QQ: 2217461513**  
 
