@@ -1,12 +1,13 @@
 ## Hi, I'am BroAlanTaps👋 
 🌱 **I’m currently learning at Shenzhen University as a Junior undergraduate student.**  
-Focusing on LLM, WEB3
 
-💬 **Email: 2022110013@email.szu.edu.cn** 
+**Focusing on LLM(accelerate inference technique), WEB3(DeFi、Smart contract)**
 
-💬 **Wechat: BroAlanTaps**  
+**Email: 2022110013@email.szu.edu.cn** 
 
-💬 **QQ: 2217461513**  
+**Wechat: BroAlanTaps**  
+
+**QQ: 2217461513**  
 
 <!--
 **broalantaps/broalantaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
