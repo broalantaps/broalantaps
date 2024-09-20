@@ -1,5 +1,6 @@
 ## Hi, I'am BroAlanTaps👋 
 🌱 **I’m currently learning at Shenzhen University as a Junior undergraduate student.**  
+Focusing on LLM, WEB3
 
 💬 **Email: 2022110013@email.szu.edu.cn** 
 
