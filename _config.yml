@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuhong Dai(戴煜宏)"
-  pronouns         : "He/Him"
+  pronouns         : # "He/Him" # Update with your pronouns
   bio              : "Third-year undergraduate student in the Computer Science(Innovation Class) at Shenzhen University, with research focus on text compression and multimodal learning."
   location         : "Beijing, China"
   employer         : "Shenzhen University"
