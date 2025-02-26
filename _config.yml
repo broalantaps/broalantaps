@@ -23,11 +23,11 @@ repository               : "broalantaps/broalantaps.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuhong Dai(戴煜宏)"
+  name             : "Yuhong Dai (戴煜宏)"
   pronouns         : # "He/Him" # Update with your pronouns
   bio              : "Third-year undergraduate student in the Computer Science(Innovation Class) at Shenzhen University, with research focus on text compression and multimodal learning."
   location         : "Beijing, China"
-  employer         : "Shenzhen University"
+  employer         : "MSRA"
   uri              : # URL
   email            : "daiyuhong2022@email.szu.edu.cn" 
 
